@@ -122,4 +122,16 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
