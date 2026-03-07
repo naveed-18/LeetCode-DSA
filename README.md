@@ -1,7 +1,3 @@
-![LeetCode](https://img.shields.io/badge/LeetCode-535%2B%20Solved-orange)
-![Language](https://img.shields.io/badge/Language-Java-blue)
-![Focus](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-green)
-
 # 🚀 LeetCode DSA Journey
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-535%2B%20Solved-orange)
@@ -10,7 +6,7 @@
 
 Welcome to my **Data Structures and Algorithms practice repository**.
 
-This repository documents my journey of solving problems on **LeetCode** to improve problem-solving skills, strengthen algorithm knowledge, and prepare for **software engineering interviews**.
+This repository documents my journey of solving problems on **LeetCode** to improve problem-solving skills, strengthen algorithm knowledge.
 
 ---
 
@@ -33,6 +29,22 @@ This card automatically displays:
 * Contest rating
 
 It updates automatically based on your LeetCode profile.
+
+---
+
+## 🏅 LeetCode Achievements & Badges
+
+Badges earned through consistent problem solving and community contributions on LeetCode.
+
+| Badge                         | Description                                                                    |
+| ----------------------------- | ------------------------------------------------------------------------------ |
+| 🔥 **50 Days Badge (2025)**   | Completed 50 days of coding challenges in 2025                                 |
+| 🚀 **100 Days Badge (2025)**  | Achieved 100 days of consistent problem solving in 2025                        |
+| ⚡ **50 Days Badge (2026)**   | Continued daily coding streak in 2026                                          |
+| 👍 **Top 100 Liked Solution** | One of my solutions ranked in the **Top 100 most liked** on LeetCode           |
+| 🎯 **LeetCode 75 Badge**      | Completed the **LeetCode 75 study plan** covering essential interview problems |
+
+These milestones reflect consistent practice and engagement with the coding community.
 
 ---
 
