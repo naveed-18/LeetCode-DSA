@@ -21,15 +21,6 @@ https://leetcode.com/u/naveed96/
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/naveed96?theme=dark\&font=Baloo\&ext=contest)
 
-This card automatically displays:
-
-* Total problems solved
-* Difficulty distribution
-* Ranking
-* Contest rating
-
-It updates automatically based on your LeetCode profile.
-
 ---
 
 ## 🏅 LeetCode Achievements & Badges
@@ -90,12 +81,6 @@ Each folder usually contains:
 * Problem description
 * Java solution
 * Runtime and memory statistics
-
----
-
-# ⚙️ Language Used
-
-* **Java**
 
 ---
 
