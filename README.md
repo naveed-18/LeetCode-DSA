@@ -126,6 +126,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +135,8 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
