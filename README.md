@@ -111,6 +111,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0039-combination-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
@@ -139,8 +140,13 @@ Solving problems regularly helps improve:
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0090-subsets-ii) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
