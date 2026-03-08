@@ -111,6 +111,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0039-combination-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
@@ -132,6 +133,7 @@ Solving problems regularly helps improve:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Solving problems regularly helps improve:
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 ## Stack
@@ -157,4 +160,12 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
