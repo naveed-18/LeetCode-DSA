@@ -170,4 +170,8 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
