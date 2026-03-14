@@ -138,6 +138,7 @@ Solving problems regularly helps improve:
 | [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naveed-18/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Solving problems regularly helps improve:
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naveed-18/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Stack
 |  |
 | ------- |
