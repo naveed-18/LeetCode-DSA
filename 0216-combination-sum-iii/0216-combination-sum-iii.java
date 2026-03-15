@@ -1,24 +1,21 @@
 class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
-        List<List<Integer>> result = new ArrayList<>();
-        combSum (1, k, n, new ArrayList<>(), result);
-        return result;
+        List<List<Integer>> ans = new ArrayList<>();
+        backTrack(1,k,n,new ArrayList<>(),ans);
+        return ans;
     }
-
-    public void combSum (int num, int k, int n, 
-        List<Integer> currList, List<List<Integer>> result) {
-
-        if (currList.size() == k) {
-            if (n == 0) result.add(new ArrayList<>(currList));
+    public void backTrack(int num, int k , int n , ArrayList<Integer> curr, List<List<Integer>> ans){
+        if(n==0 && curr.size()==k){
+            ans.add(new ArrayList<>(curr));
             return;
-        }    
-
-        for (int i = num; i <= 9; i++) {
-            if (i <= n) {
-                currList.add(i);
-                combSum (i + 1, k, n - i, currList, result);
-                currList.remove(currList.size() - 1);
-            }
+        }
+        if(n<0){ 
+            return;
+        }
+        for(int i = num;i<=9;i++){
+            curr.add(i);
+            backTrack(i+1,k,n-i,curr,ans);
+            curr.remove(curr.size()-1);
         }
     }
 }
