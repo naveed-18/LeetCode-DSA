@@ -109,6 +109,7 @@ Solving problems regularly helps improve:
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/naveed-18/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/naveed-18/LeetCode-DSA/tree/master/0051-n-queens) |
@@ -200,6 +201,7 @@ Solving problems regularly helps improve:
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/naveed-18/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 ## Tree
 |  |
