@@ -202,6 +202,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/naveed-18/LeetCode-DSA/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 ## Tree
 |  |
@@ -211,4 +212,8 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
