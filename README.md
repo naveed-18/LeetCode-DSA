@@ -178,6 +178,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Matrix
 |  |
@@ -210,13 +211,19 @@ Solving problems regularly helps improve:
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Linked List
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
