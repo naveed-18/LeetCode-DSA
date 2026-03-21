@@ -109,6 +109,7 @@ Solving problems regularly helps improve:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/naveed-18/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
@@ -174,6 +175,7 @@ Solving problems regularly helps improve:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Depth-First Search
 |  |
