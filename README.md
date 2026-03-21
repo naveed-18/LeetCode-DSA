@@ -192,6 +192,7 @@ Solving problems regularly helps improve:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 ## Divide and Conquer
 |  |
@@ -226,9 +227,14 @@ Solving problems regularly helps improve:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
