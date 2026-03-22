@@ -204,6 +204,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -224,17 +225,20 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,4 +247,8 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
