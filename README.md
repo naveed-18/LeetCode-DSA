@@ -118,6 +118,7 @@ Solving problems regularly helps improve:
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0090-subsets-ii) |
+| [0152-maximum-product-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -155,6 +156,7 @@ Solving problems regularly helps improve:
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/naveed-18/LeetCode-DSA/tree/master/0091-decode-ways) |
+| [0152-maximum-product-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Backtracking
