@@ -111,6 +111,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0001-two-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/naveed-18/LeetCode-DSA/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/naveed-18/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/naveed-18/LeetCode-DSA/tree/master/0051-n-queens) |
@@ -195,6 +196,7 @@ Solving problems regularly helps improve:
 | [0001-two-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveed-18/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/naveed-18/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Depth-First Search
@@ -206,6 +208,7 @@ Solving problems regularly helps improve:
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/naveed-18/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
