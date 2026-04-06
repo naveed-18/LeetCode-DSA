@@ -110,6 +110,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/naveed-18/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/naveed-18/LeetCode-DSA/tree/master/0036-valid-sudoku) |
@@ -135,6 +136,7 @@ Solving problems regularly helps improve:
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
@@ -231,6 +233,7 @@ Solving problems regularly helps improve:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
