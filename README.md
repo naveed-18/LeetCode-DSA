@@ -151,6 +151,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveed-18/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/naveed-18/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/naveed-18/LeetCode-DSA/tree/master/0038-count-and-say) |
@@ -166,6 +167,7 @@ Solving problems regularly helps improve:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/naveed-18/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
@@ -249,6 +251,7 @@ Solving problems regularly helps improve:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/naveed-18/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/naveed-18/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
