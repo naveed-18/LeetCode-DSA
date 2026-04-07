@@ -229,6 +229,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
