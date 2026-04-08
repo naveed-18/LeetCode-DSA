@@ -134,6 +134,7 @@ Solving problems regularly helps improve:
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/naveed-18/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +245,7 @@ Solving problems regularly helps improve:
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Queue
 |  |
 | ------- |
@@ -309,6 +311,7 @@ Solving problems regularly helps improve:
 | [2075-decode-the-slanted-ciphertext](https://github.com/naveed-18/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Counting
 |  |
 | ------- |
