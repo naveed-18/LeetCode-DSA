@@ -1,16 +1,13 @@
 class Solution {
     public boolean validPalindrome(String s) {
         int i = 0, j = s.length() - 1;
-        int deleteChar = 1;
 
         while (i <= j) {
-            if (s.charAt(i) == s.charAt(j)) {
-                i++;
-                j--;
-            } else if (deleteChar == 1) {
-                deleteChar = 0;
+            if (s.charAt(i) != s.charAt(j)) {
                 return check(s, i, j - 1) || check(s, i + 1, j);
             } 
+            i++;
+            j--;
         }
 
         return true;
@@ -18,12 +15,9 @@ class Solution {
 
     public boolean check (String s, int i, int j) {
         while (i <= j) {
-            if (s.charAt(i) == s.charAt(j)) {
-                i++;
-                j--;
-            } else {
-                return false;
-            }
+            if (s.charAt(i) != s.charAt(j)) return false;
+            i++;
+            j--;
         }
 
         return true;
