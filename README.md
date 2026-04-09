@@ -155,6 +155,7 @@ Solving problems regularly helps improve:
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveed-18/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/naveed-18/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/naveed-18/LeetCode-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/naveed-18/LeetCode-DSA/tree/master/0038-count-and-say) |
@@ -209,6 +210,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0001-two-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveed-18/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/naveed-18/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
@@ -235,6 +237,7 @@ Solving problems regularly helps improve:
 | [0002-add-two-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
