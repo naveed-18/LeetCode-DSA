@@ -271,6 +271,7 @@ Solving problems regularly helps improve:
 | [0011-container-with-most-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/naveed-18/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
@@ -292,6 +293,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Breadth-First Search
