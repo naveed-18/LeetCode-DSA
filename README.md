@@ -254,6 +254,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/naveed-18/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
@@ -298,6 +299,7 @@ Solving problems regularly helps improve:
 | [0002-add-two-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/naveed-18/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/naveed-18/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Breadth-First Search
@@ -345,4 +347,12 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/naveed-18/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/naveed-18/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
