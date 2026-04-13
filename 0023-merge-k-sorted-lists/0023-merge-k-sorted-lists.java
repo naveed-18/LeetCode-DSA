@@ -8,22 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-//  APPROACH 1:
-// PriorityQueue<Integer> minHeap = new PriorityQueue<>();
-// for(ListNode nums : lists) {
-//     while(nums != null) {
-//         minHeap.add(nums.val);
-//         nums = nums.next;
-//     }
-// }
-// ListNode ans = new ListNode(-1);
-// ListNode temp = ans;
-// while(!minHeap.isEmpty()) {
-//     ListNode currNode = new ListNode(minHeap.poll());
-//     temp.next = currNode;
-//     temp = currNode;
-// }
-// return ans.next;
+
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         //APPROACH 2
