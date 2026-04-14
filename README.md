@@ -116,6 +116,7 @@ Solving problems regularly helps improve:
 | [0015-3sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/naveed-18/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/naveed-18/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0039-combination-sum) |
@@ -278,6 +279,7 @@ Solving problems regularly helps improve:
 | [0018-4sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/naveed-18/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
