@@ -301,6 +301,7 @@ Solving problems regularly helps improve:
 | [0021-merge-two-sorted-lists](https://github.com/naveed-18/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/naveed-18/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/naveed-18/LeetCode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Breadth-First Search
@@ -313,6 +314,7 @@ Solving problems regularly helps improve:
 | [0002-add-two-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/naveed-18/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/naveed-18/LeetCode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## Binary Search Tree
 |  |
 | ------- |
