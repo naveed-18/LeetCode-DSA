@@ -216,6 +216,7 @@ Solving problems regularly helps improve:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
@@ -253,6 +254,7 @@ Solving problems regularly helps improve:
 | [0007-reverse-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
