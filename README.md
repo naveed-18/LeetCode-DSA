@@ -171,6 +171,7 @@ Solving problems regularly helps improve:
 | [0020-valid-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/naveed-18/LeetCode-DSA/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
@@ -188,6 +189,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naveed-18/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/naveed-18/LeetCode-DSA/tree/master/0091-decode-ways) |
@@ -213,6 +215,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
 ## Bit Manipulation
