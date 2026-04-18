@@ -268,6 +268,7 @@ Solving problems regularly helps improve:
 | [0172-factorial-trailing-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
