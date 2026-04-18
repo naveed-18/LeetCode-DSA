@@ -122,6 +122,7 @@ Solving problems regularly helps improve:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/naveed-18/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/naveed-18/LeetCode-DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/naveed-18/LeetCode-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/naveed-18/LeetCode-DSA/tree/master/0051-n-queens) |
@@ -210,6 +211,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/naveed-18/LeetCode-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/naveed-18/LeetCode-DSA/tree/master/0051-n-queens) |
@@ -239,6 +241,7 @@ Solving problems regularly helps improve:
 | [0013-roman-to-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/naveed-18/LeetCode-DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/naveed-18/LeetCode-DSA/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -256,6 +259,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/naveed-18/LeetCode-DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/naveed-18/LeetCode-DSA/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
