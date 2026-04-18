@@ -119,6 +119,7 @@ Solving problems regularly helps improve:
 | [0027-remove-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/naveed-18/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/naveed-18/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
@@ -151,6 +152,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
