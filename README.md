@@ -186,6 +186,7 @@ Solving problems regularly helps improve:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/naveed-18/LeetCode-DSA/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/naveed-18/LeetCode-DSA/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/naveed-18/LeetCode-DSA/tree/master/0091-decode-ways) |
@@ -204,6 +205,7 @@ Solving problems regularly helps improve:
 | [0022-generate-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/naveed-18/LeetCode-DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/naveed-18/LeetCode-DSA/tree/master/0091-decode-ways) |
@@ -355,6 +357,7 @@ Solving problems regularly helps improve:
 | [0021-merge-two-sorted-lists](https://github.com/naveed-18/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/naveed-18/LeetCode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/naveed-18/LeetCode-DSA/tree/master/0044-wildcard-matching) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -386,6 +389,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/naveed-18/LeetCode-DSA/tree/master/0044-wildcard-matching) |
 | [0680-valid-palindrome-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Trie
