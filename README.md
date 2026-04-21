@@ -127,6 +127,7 @@ Solving problems regularly helps improve:
 | [0040-combination-sum-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/naveed-18/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/naveed-18/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
@@ -206,6 +207,7 @@ Solving problems regularly helps improve:
 | [0032-longest-valid-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/naveed-18/LeetCode-DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/naveed-18/LeetCode-DSA/tree/master/0091-decode-ways) |
@@ -390,6 +392,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0011-container-with-most-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/naveed-18/LeetCode-DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Trie
