@@ -150,6 +150,7 @@ Solving problems regularly helps improve:
 | [2078-two-furthest-houses-with-different-colors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveed-18/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/naveed-18/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/naveed-18/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -176,6 +177,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [2615-sum-of-distances](https://github.com/naveed-18/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 ## String
 |  |
 | ------- |
@@ -263,6 +265,7 @@ Solving problems regularly helps improve:
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [2615-sum-of-distances](https://github.com/naveed-18/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
