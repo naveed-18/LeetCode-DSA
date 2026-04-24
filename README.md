@@ -206,6 +206,7 @@ Solving problems regularly helps improve:
 | [2075-decode-the-slanted-ciphertext](https://github.com/naveed-18/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveed-18/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
@@ -400,6 +401,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2833-furthest-point-from-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
 | ------- |
