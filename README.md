@@ -132,6 +132,7 @@ Solving problems regularly helps improve:
 | [0047-permutations-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/naveed-18/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0090-subsets-ii) |
@@ -285,6 +286,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0036-valid-sudoku](https://github.com/naveed-18/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/naveed-18/LeetCode-DSA/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -391,6 +393,7 @@ Solving problems regularly helps improve:
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/naveed-18/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
