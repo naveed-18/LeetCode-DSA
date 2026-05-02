@@ -206,6 +206,7 @@ Solving problems regularly helps improve:
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naveed-18/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/naveed-18/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveed-18/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -233,6 +234,7 @@ Solving problems regularly helps improve:
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
