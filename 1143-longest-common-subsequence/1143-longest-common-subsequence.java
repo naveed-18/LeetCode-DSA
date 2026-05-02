@@ -3,9 +3,11 @@ class Solution {
         int n1 = text1.length(), n2 = text2.length();
         // return allPaths (n1 - 1, n2 - 1, text1, text2);
 
-        int[][] dp = new int[n1][n2];
-        for (int i = 0; i < n1; i++) Arrays.fill(dp[i], -1);
-        return lcsMemo (n1 - 1, n2 - 1, text1, text2, dp);
+        // int[][] dp = new int[n1][n2];
+        // for (int i = 0; i < n1; i++) Arrays.fill(dp[i], -1);
+        // return lcsMemo (n1 - 1, n2 - 1, text1, text2, dp);
+
+        return lcsTabulation (text1, n1, text2, n2);
     }
 
     public int allPaths (int idx1, int idx2, String text1, String text2) {
@@ -35,4 +37,25 @@ class Solution {
 
         return dp[idx1][idx2] = Math.max(notTake, take);
     }    
+
+    public int lcsTabulation (String text1, int n1, String text2, int n2) {
+        int[][] dp = new int[n1 + 1][n2 + 1];
+
+        for (int idx1 = 1; idx1 <= n1; idx1++) {
+            for (int idx2 = 1; idx2 <= n2; idx2++) {
+                int notTake = Math.max(
+                    dp[idx1 - 1][idx2],
+                    dp[idx1][idx2 - 1]
+                );
+                int take = 0;
+                if (text1.charAt(idx1 - 1) == text2.charAt(idx2 - 1)) {
+                    take = 1 + dp[idx1 - 1][idx2 - 1];
+                }
+
+                dp[idx1][idx2] = Math.max(notTake, take); 
+            }
+        }
+
+        return dp[n1][n2];
+    }
 }
