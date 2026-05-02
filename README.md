@@ -222,6 +222,7 @@ Solving problems regularly helps improve:
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/naveed-18/LeetCode-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/naveed-18/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
@@ -303,6 +304,7 @@ Solving problems regularly helps improve:
 | [0009-palindrome-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -439,4 +441,8 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
