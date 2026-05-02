@@ -227,6 +227,7 @@ Solving problems regularly helps improve:
 | [0152-maximum-product-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/naveed-18/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
+| [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
@@ -303,6 +304,7 @@ Solving problems regularly helps improve:
 | [0013-roman-to-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
