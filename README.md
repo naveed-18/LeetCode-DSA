@@ -137,6 +137,7 @@ Solving problems regularly helps improve:
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/naveed-18/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/naveed-18/LeetCode-DSA/tree/master/0198-house-robber) |
@@ -232,6 +233,7 @@ Solving problems regularly helps improve:
 | [0070-climbing-stairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/naveed-18/LeetCode-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/naveed-18/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/naveed-18/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/naveed-18/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
