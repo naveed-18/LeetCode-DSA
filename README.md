@@ -140,6 +140,7 @@ Solving problems regularly helps improve:
 | [0152-maximum-product-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/naveed-18/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
@@ -313,6 +314,7 @@ Solving problems regularly helps improve:
 | [0029-divide-two-integers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0650-2-keys-keyboard](https://github.com/naveed-18/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -454,4 +456,12 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
