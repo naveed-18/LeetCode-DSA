@@ -156,6 +156,7 @@ Solving problems regularly helps improve:
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveed-18/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2615-sum-of-distances](https://github.com/naveed-18/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -284,6 +285,7 @@ Solving problems regularly helps improve:
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2615-sum-of-distances](https://github.com/naveed-18/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -320,6 +322,7 @@ Solving problems regularly helps improve:
 | [0650-2-keys-keyboard](https://github.com/naveed-18/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [2427-number-of-common-factors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -471,4 +474,5 @@ Solving problems regularly helps improve:
 | ------- |
 | [0204-count-primes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
