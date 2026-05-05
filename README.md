@@ -319,6 +319,7 @@ Solving problems regularly helps improve:
 | [0204-count-primes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0650-2-keys-keyboard](https://github.com/naveed-18/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
+| [2427-number-of-common-factors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2427-number-of-common-factors) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -464,8 +465,10 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
