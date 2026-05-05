@@ -148,6 +148,7 @@ Solving problems regularly helps improve:
 | [0300-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveed-18/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -281,6 +282,7 @@ Solving problems regularly helps improve:
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/naveed-18/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -354,6 +356,7 @@ Solving problems regularly helps improve:
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveed-18/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/naveed-18/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
@@ -404,6 +407,7 @@ Solving problems regularly helps improve:
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Simulation
