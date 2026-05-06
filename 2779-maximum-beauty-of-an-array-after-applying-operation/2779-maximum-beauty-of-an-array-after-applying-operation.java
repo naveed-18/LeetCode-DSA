@@ -1,5 +1,21 @@
 class Solution {
     public int maximumBeauty(int[] nums, int k) {
+        return maximumBeautyMethod2 (nums, k);
+    }
+
+    public int maximumBeautyMethod2(int[] nums, int k) {
+        int n = nums.length;
+        Arrays.sort(nums);
+        int i = 0, j = 0;
+        while (j < n) {
+            if (nums[j] - nums[i] > 2 * k) i++;
+            j++;
+        }
+
+        return j - i;
+    }
+
+    public int maximumBeautyMethod1(int[] nums, int k) {
         int n = nums.length;
         for (int i = 0; i < n; i++) {
             nums[i] += k;
