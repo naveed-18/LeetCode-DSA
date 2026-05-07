@@ -151,6 +151,7 @@ Solving problems regularly helps improve:
 | [0875-koko-eating-bananas](https://github.com/naveed-18/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/naveed-18/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -180,6 +181,7 @@ Solving problems regularly helps improve:
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/naveed-18/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/naveed-18/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveed-18/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveed-18/LeetCode-DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Sliding Window
