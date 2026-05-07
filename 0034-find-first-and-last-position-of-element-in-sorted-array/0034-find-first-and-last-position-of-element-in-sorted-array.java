@@ -2,50 +2,47 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         int[] result = new int[2];
         int n = nums.length;
-
-        result[0] = findFirstPosition (nums, n, target);
-
-        result[1] = findLastPosition (nums, n, target);
+        result[0] = getStartIndex (nums, n, target);
+        result[1] = getEndIndex (nums, n, target);
 
         return result;
     }
 
-    public int findFirstPosition (int[] nums, int n, int target) {
+    public int getStartIndex (int[] nums, int n, int target) {
         int low = 0, high = n - 1;
-        int ans = -1;
+        int res = -1;
+
         while (low <= high) {
             int mid = low + (high - low) / 2;
-
             if (nums[mid] == target) {
-                ans = mid;
+                res = mid;
                 high = mid - 1;
             } else if (nums[mid] < target) {
-                low = mid + 1;
+                low = mid + 1; 
             } else {
                 high = mid - 1;
             }
         }
 
-        return ans;
+        return res;
     }
 
-    public int findLastPosition (int[] nums, int n, int target) {
+    public int getEndIndex (int[] nums, int n, int target) {
         int low = 0, high = n - 1;
-        int ans = -1;
+        int res = -1;
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
-
             if (nums[mid] == target) {
-                ans = mid;
+                res = mid;
                 low = mid + 1;
             } else if (nums[mid] < target) {
-                low = mid + 1;
+                low = mid + 1; 
             } else {
                 high = mid - 1;
             }
         }
 
-        return ans;
+        return res;
     }
 }
