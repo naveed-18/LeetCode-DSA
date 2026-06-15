@@ -315,6 +315,7 @@ Solving problems regularly helps improve:
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Matrix
 |  |
 | ------- |
@@ -388,12 +389,14 @@ Solving problems regularly helps improve:
 | [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Linked List
 |  |
 | ------- |
@@ -409,6 +412,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
+| [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Recursion
 |  |
 | ------- |
