@@ -342,6 +342,7 @@ Solving problems regularly helps improve:
 | [0172-factorial-trailing-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0650-2-keys-keyboard](https://github.com/naveed-18/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
+| [0728-self-dividing-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2427-number-of-common-factors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2427-number-of-common-factors) |
