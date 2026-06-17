@@ -150,6 +150,7 @@ Solving problems regularly helps improve:
 | [0303-range-sum-query-immutable](https://github.com/naveed-18/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/naveed-18/LeetCode-DSA/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naveed-18/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0875-koko-eating-bananas](https://github.com/naveed-18/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -226,6 +227,7 @@ Solving problems regularly helps improve:
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0748-shortest-completing-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naveed-18/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -302,6 +304,7 @@ Solving problems regularly helps improve:
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/naveed-18/LeetCode-DSA/tree/master/0705-design-hashset) |
+| [0748-shortest-completing-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
