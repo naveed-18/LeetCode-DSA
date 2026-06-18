@@ -148,6 +148,7 @@ Solving problems regularly helps improve:
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/naveed-18/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/naveed-18/LeetCode-DSA/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naveed-18/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
