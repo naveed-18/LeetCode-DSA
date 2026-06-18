@@ -154,6 +154,7 @@ Solving problems regularly helps improve:
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naveed-18/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
+| [0806-number-of-lines-to-write-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/naveed-18/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -232,6 +233,7 @@ Solving problems regularly helps improve:
 | [0680-valid-palindrome-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0748-shortest-completing-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [1143-longest-common-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naveed-18/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/naveed-18/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
