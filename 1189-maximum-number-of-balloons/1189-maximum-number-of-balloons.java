@@ -10,15 +10,12 @@ class Solution {
             else if (c == 'n') countN++;
         }
 
-        int minCount = Integer.MAX_VALUE;
-        minCount = Math.min(countB, 
+        return  Math.min(countB, 
                     Math.min(countA, 
                     Math.min(countL / 2, 
                     Math.min(countO / 2, countN)
                 )
             )
         );
-
-        return minCount == Integer.MAX_VALUE ? 0 : minCount;
     }
 }
