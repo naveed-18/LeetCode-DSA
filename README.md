@@ -237,6 +237,7 @@ Solving problems regularly helps improve:
 | [0806-number-of-lines-to-write-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0819-most-common-word) |
 | [1143-longest-common-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/naveed-18/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naveed-18/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/naveed-18/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveed-18/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -315,6 +316,7 @@ Solving problems regularly helps improve:
 | [0748-shortest-completing-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0819-most-common-word) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/naveed-18/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
@@ -471,6 +473,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0819-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/naveed-18/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
