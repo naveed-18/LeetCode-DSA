@@ -14,7 +14,7 @@ class Solution {
         minCount = Math.min(countB, 
                     Math.min(countA, 
                     Math.min(countL / 2, 
-                     Math.min(countO / 2, countN)
+                    Math.min(countO / 2, countN)
                 )
             )
         );
