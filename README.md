@@ -165,6 +165,7 @@ Solving problems regularly helps improve:
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naveed-18/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveed-18/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -463,6 +464,7 @@ Solving problems regularly helps improve:
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naveed-18/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naveed-18/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveed-18/LeetCode-DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -491,6 +493,7 @@ Solving problems regularly helps improve:
 | [0045-jump-game-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naveed-18/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Trie
 |  |
