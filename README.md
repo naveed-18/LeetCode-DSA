@@ -161,6 +161,7 @@ Solving problems regularly helps improve:
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/naveed-18/LeetCode-DSA/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/naveed-18/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -195,6 +196,7 @@ Solving problems regularly helps improve:
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/naveed-18/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/naveed-18/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveed-18/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveed-18/LeetCode-DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -204,6 +206,7 @@ Solving problems regularly helps improve:
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveed-18/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naveed-18/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveed-18/LeetCode-DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -213,6 +216,7 @@ Solving problems regularly helps improve:
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/naveed-18/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/naveed-18/LeetCode-DSA/tree/master/2615-sum-of-distances) |
