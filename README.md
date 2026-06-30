@@ -174,6 +174,7 @@ Solving problems regularly helps improve:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
+| [2404-most-frequent-even-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/2404-most-frequent-even-element) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveed-18/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -336,6 +337,7 @@ Solving problems regularly helps improve:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naveed-18/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
+| [2404-most-frequent-even-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/2404-most-frequent-even-element) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2615-sum-of-distances](https://github.com/naveed-18/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -498,6 +500,7 @@ Solving problems regularly helps improve:
 | [0819-most-common-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/naveed-18/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2404-most-frequent-even-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
