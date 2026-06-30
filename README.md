@@ -149,6 +149,7 @@ Solving problems regularly helps improve:
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/naveed-18/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/naveed-18/LeetCode-DSA/tree/master/0705-design-hashset) |
@@ -324,6 +325,7 @@ Solving problems regularly helps improve:
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0697-degree-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/naveed-18/LeetCode-DSA/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
@@ -389,6 +391,7 @@ Solving problems regularly helps improve:
 | [0053-maximum-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Queue
@@ -470,6 +473,7 @@ Solving problems regularly helps improve:
 | [0047-permutations-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naveed-18/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -490,6 +494,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0819-most-common-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/naveed-18/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -513,6 +518,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/naveed-18/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -558,4 +564,12 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
