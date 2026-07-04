@@ -51,23 +51,15 @@ class Solution {
 
         while (i <= mid && j <= high) {
             if (numsPair[i].num <= numsPair[j].num) {
-                temp[k++] = new Pair(numsPair[i].num, numsPair[i].index);
-                i++;
+                temp[k++] = numsPair[i++];
             } else {
-                temp[k++] = new Pair(numsPair[j].num, numsPair[j].index);
-                j++;
+                temp[k++] = numsPair[j++];
             }
         }
 
-        while (i <= mid) {
-            temp[k++] = new Pair(numsPair[i].num, numsPair[i].index);
-            i++;
-        }
+        while (i <= mid) temp[k++] = numsPair[i++];
 
-        while (j <= high) {
-            temp[k++] = new Pair(numsPair[j].num, numsPair[j].index);
-            j++;
-        }
+        while (j <= high) temp[k++] = numsPair[j++];
 
         for (int idx = low; idx <= high; idx++) {
             numsPair[idx] = temp[idx - low];
