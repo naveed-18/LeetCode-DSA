@@ -14,34 +14,35 @@ class Solution {
             numsPair[i] = new Pair(nums[i], i);
         }
 
-        List<Integer> result = new ArrayList<>();
-        for (int i = 0; i < n; i++) result.add(0);
+        int[] res = new int[n];
+        mergeSort(0, n - 1, numsPair, res);
 
-        mergeSort(0, n - 1, numsPair, result);
+        List<Integer> result = new ArrayList<>();
+        for (int r : res) result.add(r);
 
         return result;
     } 
 
-    public void mergeSort(int low, int high, Pair[] numsPair, List<Integer> result) {
+    public void mergeSort(int low, int high, Pair[] numsPair, int[] res) {
         if (low >= high) return;
 
         int mid = low + (high - low) / 2;
-        mergeSort(low, mid, numsPair, result);
-        mergeSort(mid + 1, high, numsPair, result);
-        countSmallNumbers(low, mid, high, numsPair, result);
+        mergeSort(low, mid, numsPair, res);
+        mergeSort(mid + 1, high, numsPair, res);
+        countSmallNumbers(low, mid, high, numsPair, res);
 
         merge(low, mid, high, numsPair);
     }
 
     public void countSmallNumbers(int low, int mid, int high, 
-        Pair[] numsPair, List<Integer> result) {
+        Pair[] numsPair, int[] res) {
 
         int j = mid + 1;
 
         for (int i = low; i <= mid; i++) {
             while (j <= high && numsPair[i].num > numsPair[j].num) j++;
 
-            result.set(numsPair[i].index, result.get(numsPair[i].index) + (j - (mid + 1)));
+            res[numsPair[i].index] += (j - (mid + 1));
         }
     }
 
