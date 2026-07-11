@@ -359,6 +359,7 @@ Solving problems regularly helps improve:
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naveed-18/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/naveed-18/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -466,6 +467,7 @@ Solving problems regularly helps improve:
 | [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0994-rotting-oranges](https://github.com/naveed-18/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naveed-18/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/naveed-18/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Recursion
 |  |
 | ------- |
@@ -576,6 +578,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naveed-18/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/naveed-18/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/naveed-18/LeetCode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
@@ -583,6 +586,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naveed-18/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/naveed-18/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bucket Sort
 |  |
