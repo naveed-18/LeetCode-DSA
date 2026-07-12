@@ -167,6 +167,7 @@ Solving problems regularly helps improve:
 | [1004-max-consecutive-ones-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/naveed-18/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naveed-18/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -340,6 +341,7 @@ Solving problems regularly helps improve:
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/naveed-18/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naveed-18/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
@@ -490,6 +492,7 @@ Solving problems regularly helps improve:
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naveed-18/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1331-rank-transform-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naveed-18/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
