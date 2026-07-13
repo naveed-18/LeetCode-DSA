@@ -561,6 +561,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
