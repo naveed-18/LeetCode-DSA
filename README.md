@@ -162,6 +162,7 @@ Solving problems regularly helps improve:
 | [0806-number-of-lines-to-write-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/naveed-18/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/naveed-18/LeetCode-DSA/tree/master/0994-rotting-oranges) |
@@ -291,6 +292,7 @@ Solving problems regularly helps improve:
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/naveed-18/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -396,6 +398,7 @@ Solving problems regularly helps improve:
 | [0650-2-keys-keyboard](https://github.com/naveed-18/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2427-number-of-common-factors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -631,4 +634,5 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/naveed-18/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
