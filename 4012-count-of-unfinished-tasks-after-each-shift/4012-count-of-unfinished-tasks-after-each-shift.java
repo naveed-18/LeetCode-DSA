@@ -10,16 +10,20 @@ class Solution {
             prefixSum[i] = prefixSum[i - 1] + (1L * tasks[i]);
         }
 
+        long totalTasksTime = prefixSum[m - 1];
         long previousTime = 0;
         for (int i = 0; i < n; i++) {
             long time = shifts[i] + previousTime;
-            int res = binarySearch(prefixSum, m, time);
-            result[i] = m - res - 1;
+            if (time >= totalTasksTime) {
+                result[i] = 0;
+                previousTime = 0;
+            } else {
+                int res = binarySearch(prefixSum, m, time);
+                result[i] = m - res - 1;
 
-            if (result[i] > 0) previousTime += shifts[i];
-            else previousTime = 0;
+                if (result[i] > 0) previousTime += shifts[i];
+            }
         }
-
         return result;
     }
 
