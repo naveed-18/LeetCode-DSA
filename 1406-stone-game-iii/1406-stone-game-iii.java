@@ -70,3 +70,34 @@ class Solution {
         return dp[0][1];
     }
 }
+/*
+    State: dp[idx][turn] represents the maximum possible value of
+
+        AliceScore - BobScore
+
+    from index 'idx' to the end of the array,
+    assuming both players play optimally.
+
+    1 -> Alice's turn
+    0 -> Bob's turn
+
+    At every position, a player can take 1, 2, or 3 stones.
+    Maintain a running sum while considering each possible move.
+
+    ALICE'S TURN : Alice wants to maximize (Alice - Bob). Take 1/2/3 stones.
+    Current contribution: +sum
+    Remaining contribution: dp[next][Bob]
+    Transition: dp[idx][Alice] = max(sum + dp[next][Bob])
+
+
+    BOB'S TURN : Bob wants to minimize (Alice - Bob).
+    When Bob gains points, (Alice - Bob) decreases.
+    Current contribution: -sum
+    Remaining contribution: dp[next][Alice]
+    Transition: dp[idx][Bob] = min(-sum + dp[next][Alice])
+
+    Alice -> Integer.MIN_VALUE
+    Bob   -> Integer.MAX_VALUE
+    because Alice maximizes,
+    Bob minimizes.
+*/
