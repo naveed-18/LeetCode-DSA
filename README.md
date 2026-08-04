@@ -272,6 +272,7 @@ Solving problems regularly helps improve:
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/naveed-18/LeetCode-DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -412,6 +413,7 @@ Solving problems regularly helps improve:
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/naveed-18/LeetCode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/naveed-18/LeetCode-DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -538,6 +540,7 @@ Solving problems regularly helps improve:
 | [2404-most-frequent-even-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/naveed-18/LeetCode-DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Greedy
 |  |
 | ------- |
