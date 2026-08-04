@@ -197,6 +197,7 @@ Solving problems regularly helps improve:
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/naveed-18/LeetCode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@ Solving problems regularly helps improve:
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naveed-18/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveed-18/LeetCode-DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Solving problems regularly helps improve:
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/naveed-18/LeetCode-DSA/tree/master/2615-sum-of-distances) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
 | ------- |
@@ -366,6 +369,7 @@ Solving problems regularly helps improve:
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -588,6 +592,7 @@ Solving problems regularly helps improve:
 | [0204-count-primes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2427-number-of-common-factors) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Number Theory
 |  |
 | ------- |
