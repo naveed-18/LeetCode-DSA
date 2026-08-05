@@ -379,6 +379,7 @@ Solving problems regularly helps improve:
 | [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naveed-18/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/naveed-18/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/naveed-18/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -492,6 +493,7 @@ Solving problems regularly helps improve:
 | [0994-rotting-oranges](https://github.com/naveed-18/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naveed-18/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/naveed-18/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/naveed-18/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Recursion
 |  |
 | ------- |
@@ -613,6 +615,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naveed-18/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/naveed-18/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/naveed-18/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/naveed-18/LeetCode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
