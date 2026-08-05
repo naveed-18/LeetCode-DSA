@@ -1,44 +1,57 @@
+import java.util.*;
+
 class Solution {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
-        boolean[] isVisited = new boolean[n];
-        List<Integer> result = new ArrayList<>();
-        List<List<Integer>> adj =  new ArrayList<>();
-        for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
 
-        for (int[] invocation : invocations) {
-            int a = invocation[0];
-            int b = invocation[1];
-
-            adj.get(a).add(b);
-        }
-
-        dfs(k, adj, isVisited);
-
-        for (int[] invocation : invocations) {
-            int a = invocation[0];
-            int b = invocation[1];
-
-            if (!isVisited[a] && isVisited[b]) {
-                for (int i = 0; i < n; i++) result.add(i);
-
-                return result;
-            }
-        }
+        // Build graph
+        List<List<Integer>> graph = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
-            if (!isVisited[i]) result.add(i);
+            graph.add(new ArrayList<>());
         }
 
-        return result;
+        for (int[] edge : invocations) {
+            graph.get(edge[0]).add(edge[1]);
+        }
+
+        // Find suspicious methods
+        boolean[] suspicious = new boolean[n];
+        dfs(k, graph, suspicious);
+
+        // Check if any outside method invokes a suspicious method
+        for (int[] edge : invocations) {
+            int from = edge[0];
+            int to = edge[1];
+
+            if (!suspicious[from] && suspicious[to]) {
+                List<Integer> ans = new ArrayList<>();
+                for (int i = 0; i < n; i++) {
+                    ans.add(i);
+                }
+                return ans;
+            }
+        }
+
+        // Return remaining methods
+        List<Integer> ans = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) {
+            if (!suspicious[i]) {
+                ans.add(i);
+            }
+        }
+
+        return ans;
     }
 
-    public void dfs (int node, List<List<Integer>> adj, boolean[] isVisited) {
-        isVisited[node] = true;
+    private void dfs(int node, List<List<Integer>> graph, boolean[] suspicious) {
 
-        for (int neighbour : adj.get(node)) {
-            if (!isVisited[neighbour]) {
-                dfs(neighbour, adj, isVisited);
-            }
+        if (suspicious[node]) return;
+
+        suspicious[node] = true;
+
+        for (int next : graph.get(node)) {
+            dfs(next, graph, suspicious);
         }
     }
 }
