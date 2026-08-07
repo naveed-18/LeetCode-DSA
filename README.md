@@ -283,6 +283,7 @@ Solving problems regularly helps improve:
 | [1768-merge-strings-alternately](https://github.com/naveed-18/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/naveed-18/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2390-removing-stars-from-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveed-18/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/2833-furthest-point-from-origin) |
@@ -341,6 +342,7 @@ Solving problems regularly helps improve:
 | [0032-longest-valid-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
+| [2390-removing-stars-from-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
 ## Bit Manipulation
 |  |
@@ -556,6 +558,7 @@ Solving problems regularly helps improve:
 | [0657-robot-return-to-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/naveed-18/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2352-equal-row-and-column-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
