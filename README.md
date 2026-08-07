@@ -148,6 +148,7 @@ Solving problems regularly helps improve:
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/naveed-18/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/naveed-18/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/naveed-18/LeetCode-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -462,6 +463,7 @@ Solving problems regularly helps improve:
 | [0042-trapping-rain-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/naveed-18/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
