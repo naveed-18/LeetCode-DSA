@@ -485,6 +485,7 @@ Solving problems regularly helps improve:
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/naveed-18/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveed-18/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/naveed-18/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
 |  |
@@ -512,6 +513,7 @@ Solving problems regularly helps improve:
 | [0086-partition-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0705-design-hashset](https://github.com/naveed-18/LeetCode-DSA/tree/master/0705-design-hashset) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
