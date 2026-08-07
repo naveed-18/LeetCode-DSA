@@ -267,6 +267,7 @@ Solving problems regularly helps improve:
 | [0151-reverse-words-in-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/naveed-18/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
@@ -342,6 +343,7 @@ Solving problems regularly helps improve:
 | [0032-longest-valid-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
 ## Bit Manipulation
@@ -527,6 +529,7 @@ Solving problems regularly helps improve:
 | [0024-swap-nodes-in-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/naveed-18/LeetCode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/naveed-18/LeetCode-DSA/tree/master/0044-wildcard-matching) |
+| [0394-decode-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/naveed-18/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 ## Binary Search Tree
 |  |
