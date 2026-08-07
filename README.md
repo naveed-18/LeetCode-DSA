@@ -185,6 +185,7 @@ Solving problems regularly helps improve:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
+| [2352-equal-row-and-column-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/2404-most-frequent-even-element) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveed-18/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -373,6 +374,7 @@ Solving problems regularly helps improve:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naveed-18/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
+| [2352-equal-row-and-column-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/2404-most-frequent-even-element) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2615-sum-of-distances](https://github.com/naveed-18/LeetCode-DSA/tree/master/2615-sum-of-distances) |
@@ -405,6 +407,7 @@ Solving problems regularly helps improve:
 | [0766-toeplitz-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/naveed-18/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2352-equal-row-and-column-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/naveed-18/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/naveed-18/LeetCode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -552,6 +555,7 @@ Solving problems regularly helps improve:
 | [0054-spiral-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/naveed-18/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/naveed-18/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2352-equal-row-and-column-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
