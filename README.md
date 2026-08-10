@@ -159,6 +159,7 @@ Solving problems regularly helps improve:
 | [0674-longest-continuous-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/naveed-18/LeetCode-DSA/tree/master/0705-design-hashset) |
+| [0739-daily-temperatures](https://github.com/naveed-18/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naveed-18/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
@@ -344,6 +345,7 @@ Solving problems regularly helps improve:
 | [0042-trapping-rain-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/naveed-18/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/naveed-18/LeetCode-DSA/tree/master/2751-robot-collisions) |
@@ -626,6 +628,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/naveed-18/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 ## Memoization
 |  |
 | ------- |
