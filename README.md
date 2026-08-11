@@ -505,6 +505,7 @@ Solving problems regularly helps improve:
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/naveed-18/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -514,6 +515,7 @@ Solving problems regularly helps improve:
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/naveed-18/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Linked List
 |  |
@@ -553,6 +555,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/naveed-18/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 ## Sorting
 |  |
 | ------- |
