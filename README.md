@@ -319,6 +319,7 @@ Solving problems regularly helps improve:
 | [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 ## Backtracking
@@ -436,6 +437,7 @@ Solving problems regularly helps improve:
 | [0728-self-dividing-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [2427-number-of-common-factors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2427-number-of-common-factors) |
@@ -633,6 +635,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/naveed-18/LeetCode-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Enumeration
 |  |
 | ------- |
