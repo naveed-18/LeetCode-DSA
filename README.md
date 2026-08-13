@@ -403,6 +403,7 @@ Solving problems regularly helps improve:
 | [0100-same-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naveed-18/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -504,6 +505,7 @@ Solving problems regularly helps improve:
 | [0104-maximum-depth-of-binary-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/naveed-18/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
@@ -514,6 +516,7 @@ Solving problems regularly helps improve:
 | [0104-maximum-depth-of-binary-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveed-18/LeetCode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/naveed-18/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
@@ -707,4 +710,12 @@ Solving problems regularly helps improve:
 | [0486-predict-the-winner](https://github.com/naveed-18/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1406-stone-game-iii) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
