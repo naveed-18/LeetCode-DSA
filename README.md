@@ -187,6 +187,7 @@ Solving problems regularly helps improve:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
+| [2187-minimum-time-to-complete-trips](https://github.com/naveed-18/LeetCode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2352-equal-row-and-column-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/2404-most-frequent-even-element) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveed-18/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -221,6 +222,7 @@ Solving problems regularly helps improve:
 | [1004-max-consecutive-ones-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/naveed-18/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveed-18/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2187-minimum-time-to-complete-trips](https://github.com/naveed-18/LeetCode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveed-18/LeetCode-DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
