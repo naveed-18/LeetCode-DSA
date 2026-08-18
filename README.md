@@ -272,6 +272,7 @@ Solving problems regularly helps improve:
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/naveed-18/LeetCode-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/naveed-18/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0392-is-subsequence) |
@@ -317,6 +318,7 @@ Solving problems regularly helps improve:
 | [0091-decode-ways](https://github.com/naveed-18/LeetCode-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/naveed-18/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveed-18/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0132-palindrome-partitioning-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/naveed-18/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
