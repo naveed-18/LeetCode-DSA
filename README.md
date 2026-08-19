@@ -157,6 +157,7 @@ Solving problems regularly helps improve:
 | [0486-predict-the-winner](https://github.com/naveed-18/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/naveed-18/LeetCode-DSA/tree/master/0705-design-hashset) |
@@ -329,6 +330,7 @@ Solving problems regularly helps improve:
 | [0486-predict-the-winner](https://github.com/naveed-18/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/naveed-18/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/naveed-18/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/naveed-18/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0877-stone-game) |
@@ -720,11 +722,13 @@ Solving problems regularly helps improve:
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/naveed-18/LeetCode-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/naveed-18/LeetCode-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Ordered Set
 |  |
 | ------- |
@@ -745,4 +749,8 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naveed-18/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
