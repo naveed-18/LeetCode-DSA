@@ -753,4 +753,8 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
