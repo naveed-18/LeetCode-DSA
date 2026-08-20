@@ -136,6 +136,7 @@ Solving problems regularly helps improve:
 | [0055-jump-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/naveed-18/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveed-18/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -318,6 +319,7 @@ Solving problems regularly helps improve:
 | [0055-jump-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/naveed-18/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/naveed-18/LeetCode-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/naveed-18/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveed-18/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -363,6 +365,7 @@ Solving problems regularly helps improve:
 | [0032-longest-valid-parentheses](https://github.com/naveed-18/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/naveed-18/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/naveed-18/LeetCode-DSA/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/naveed-18/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naveed-18/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -438,6 +441,7 @@ Solving problems regularly helps improve:
 | [0054-spiral-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/naveed-18/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0766-toeplitz-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/naveed-18/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -663,6 +667,7 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naveed-18/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/naveed-18/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/naveed-18/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 ## Memoization
 |  |
