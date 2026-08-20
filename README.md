@@ -179,6 +179,7 @@ Solving problems regularly helps improve:
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/naveed-18/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1268-search-suggestions-system](https://github.com/naveed-18/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -228,6 +229,7 @@ Solving problems regularly helps improve:
 | [0875-koko-eating-bananas](https://github.com/naveed-18/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/naveed-18/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/naveed-18/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveed-18/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2187-minimum-time-to-complete-trips](https://github.com/naveed-18/LeetCode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/naveed-18/LeetCode-DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -292,6 +294,7 @@ Solving problems regularly helps improve:
 | [0819-most-common-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0819-most-common-word) |
 | [1143-longest-common-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/naveed-18/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1268-search-suggestions-system](https://github.com/naveed-18/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naveed-18/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naveed-18/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naveed-18/LeetCode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -600,6 +603,7 @@ Solving problems regularly helps improve:
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naveed-18/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1268-search-suggestions-system](https://github.com/naveed-18/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -649,12 +653,14 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [1268-search-suggestions-system](https://github.com/naveed-18/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveed-18/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/naveed-18/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [1268-search-suggestions-system](https://github.com/naveed-18/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 ## Merge Sort
 |  |
 | ------- |
