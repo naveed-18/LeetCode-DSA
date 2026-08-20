@@ -148,6 +148,7 @@ Solving problems regularly helps improve:
 | [0216-combination-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/naveed-18/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/naveed-18/LeetCode-DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/naveed-18/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/naveed-18/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -326,6 +327,7 @@ Solving problems regularly helps improve:
 | [0132-palindrome-partitioning-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/naveed-18/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/naveed-18/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/naveed-18/LeetCode-DSA/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/naveed-18/LeetCode-DSA/tree/master/0312-burst-balloons) |
 | [0392-is-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0392-is-subsequence) |
@@ -442,6 +444,7 @@ Solving problems regularly helps improve:
 | [0064-minimum-path-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/naveed-18/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/naveed-18/LeetCode-DSA/tree/master/0221-maximal-square) |
 | [0766-toeplitz-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/naveed-18/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
