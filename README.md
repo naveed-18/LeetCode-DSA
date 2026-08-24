@@ -190,6 +190,7 @@ Solving problems regularly helps improve:
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naveed-18/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveed-18/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/naveed-18/LeetCode-DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -257,6 +258,7 @@ Solving problems regularly helps improve:
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1872-stone-game-viii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/naveed-18/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -347,6 +349,7 @@ Solving problems regularly helps improve:
 | [1143-longest-common-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/naveed-18/LeetCode-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
@@ -475,6 +478,7 @@ Solving problems regularly helps improve:
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/naveed-18/LeetCode-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [2413-smallest-even-multiple](https://github.com/naveed-18/LeetCode-DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -756,6 +760,7 @@ Solving problems regularly helps improve:
 | [0877-stone-game](https://github.com/naveed-18/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/naveed-18/LeetCode-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -772,4 +777,12 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [1075-project-employees-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/1075-project-employees-i) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
