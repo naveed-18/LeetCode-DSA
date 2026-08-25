@@ -210,6 +210,7 @@ Solving problems regularly helps improve:
 | [3643-flip-square-submatrix-vertically](https://github.com/naveed-18/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/naveed-18/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -422,6 +423,7 @@ Solving problems regularly helps improve:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/naveed-18/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
