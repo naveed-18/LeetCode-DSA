@@ -790,6 +790,7 @@ Solving problems regularly helps improve:
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/naveed-18/LeetCode-DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1075-project-employees-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/1075-project-employees-i) |
 ## Minimax
 |  |
