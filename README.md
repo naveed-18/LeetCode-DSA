@@ -158,6 +158,7 @@ Solving problems regularly helps improve:
 | [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/naveed-18/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+| [0525-contiguous-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -257,6 +258,7 @@ Solving problems regularly helps improve:
 | [0209-minimum-size-subarray-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/naveed-18/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/naveed-18/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naveed-18/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -413,6 +415,7 @@ Solving problems regularly helps improve:
 | [0219-contains-duplicate-ii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/naveed-18/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0525-contiguous-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/naveed-18/LeetCode-DSA/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/naveed-18/LeetCode-DSA/tree/master/0748-shortest-completing-word) |
