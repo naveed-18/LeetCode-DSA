@@ -160,6 +160,7 @@ Solving problems regularly helps improve:
 | [0493-reverse-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/naveed-18/LeetCode-DSA/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
@@ -473,6 +474,7 @@ Solving problems regularly helps improve:
 | [0079-word-search](https://github.com/naveed-18/LeetCode-DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/naveed-18/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/naveed-18/LeetCode-DSA/tree/master/0221-maximal-square) |
+| [0661-image-smoother](https://github.com/naveed-18/LeetCode-DSA/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
 | [0909-snakes-and-ladders](https://github.com/naveed-18/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/naveed-18/LeetCode-DSA/tree/master/0994-rotting-oranges) |
