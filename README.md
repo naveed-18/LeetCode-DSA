@@ -201,6 +201,7 @@ Solving problems regularly helps improve:
 | [2078-two-furthest-houses-with-different-colors](https://github.com/naveed-18/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2121-intervals-between-identical-elements](https://github.com/naveed-18/LeetCode-DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2187-minimum-time-to-complete-trips](https://github.com/naveed-18/LeetCode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/naveed-18/LeetCode-DSA/tree/master/2404-most-frequent-even-element) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveed-18/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -367,6 +368,7 @@ Solving problems regularly helps improve:
 | [1406-stone-game-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/naveed-18/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
 | ------- |
@@ -479,6 +481,7 @@ Solving problems regularly helps improve:
 | [0909-snakes-and-ladders](https://github.com/naveed-18/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/naveed-18/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/naveed-18/LeetCode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/naveed-18/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -815,4 +818,8 @@ Solving problems regularly helps improve:
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/naveed-18/LeetCode-DSA/tree/master/1872-stone-game-viii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
