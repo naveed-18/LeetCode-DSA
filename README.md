@@ -182,6 +182,7 @@ Solving problems regularly helps improve:
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/naveed-18/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/naveed-18/LeetCode-DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveed-18/LeetCode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/naveed-18/LeetCode-DSA/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/naveed-18/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/naveed-18/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naveed-18/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -467,6 +468,7 @@ Solving problems regularly helps improve:
 | [0437-path-sum-iii](https://github.com/naveed-18/LeetCode-DSA/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/naveed-18/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
+| [1254-number-of-closed-islands](https://github.com/naveed-18/LeetCode-DSA/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naveed-18/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/naveed-18/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/naveed-18/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
@@ -484,6 +486,7 @@ Solving problems regularly helps improve:
 | [0766-toeplitz-matrix](https://github.com/naveed-18/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
 | [0909-snakes-and-ladders](https://github.com/naveed-18/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/naveed-18/LeetCode-DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/naveed-18/LeetCode-DSA/tree/master/1254-number-of-closed-islands) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveed-18/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/naveed-18/LeetCode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/naveed-18/LeetCode-DSA/tree/master/2352-equal-row-and-column-pairs) |
@@ -615,6 +618,7 @@ Solving problems regularly helps improve:
 | [0617-merge-two-binary-trees](https://github.com/naveed-18/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0909-snakes-and-ladders](https://github.com/naveed-18/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/naveed-18/LeetCode-DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/naveed-18/LeetCode-DSA/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naveed-18/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/naveed-18/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/naveed-18/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
@@ -764,6 +768,7 @@ Solving problems regularly helps improve:
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/naveed-18/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/naveed-18/LeetCode-DSA/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/naveed-18/LeetCode-DSA/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naveed-18/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/naveed-18/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/naveed-18/LeetCode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
